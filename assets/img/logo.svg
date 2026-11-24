@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Prestat Services">
+  <defs><linearGradient id="lg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2a9d58"/><stop offset="1" stop-color="#0d3a24"/></linearGradient></defs>
+  <rect width="64" height="64" rx="18" fill="url(#lg)"/>
+  <circle cx="47" cy="17" r="6" fill="#f4881f"/>
+  <path d="M30 9 18 26h6l-9 12h8l-10 12h34l-10-12h8l-9-12h6z" fill="#fff"/>
+  <rect x="27.5" y="50" width="5" height="7" rx="1.5" fill="#f5c842"/>
+  <path d="M30 20v26M30 30l-5 4M30 37l5-4" stroke="#1d7f48" stroke-width="2.4" stroke-linecap="round" fill="none"/>
+</svg>

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.prestat-services-elagage.fr/sitemap.xml
