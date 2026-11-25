@@ -702,3 +702,10 @@ a.contact-card:hover { transform: translateX(6px); border-color: var(--green-400
 .zone-list li small { color: var(--muted); font-size: .78rem; margin-left: .25rem; }
 .zone-source { font-size: .78rem; color: var(--muted); margin-top: 1rem; }
 @media (max-width: 860px) { .zone-side { position: static; } }
+
+/* ---------- Mentions légales : sections dépliables ---------- */
+.legal-item summary { font-size: 1.15rem; }
+.legal-item__body { padding: 0 1.1rem 1.1rem calc(1.1rem + 1.25em + .7rem); color: var(--muted); }
+.legal-item__body p:last-child { margin-bottom: 0; }
+.legal-item__body strong { color: var(--ink); }
+@media (max-width: 640px) { .legal-item__body { padding-left: 1.1rem; } }
